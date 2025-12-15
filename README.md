@@ -171,6 +171,8 @@ php artisan serve
 Start reverb server:
 
 ```bash
+php artisan reverb:generate
+
 php artisan reverb:start
 ```
 
